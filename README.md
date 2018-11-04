@@ -6,3 +6,7 @@ Instructions how to install and configure software for Rasspberry Pi
 * [Install and configure simple print server](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-print-server)
 * [Install and configure network scanner](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-and-configure-network-scanner)
 * [Install and configure Deluge bitTorrent client](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-and-configure-Deluge-bitTorrent-client)
+* [Using Fan Control service for Raspberry Pi cooling](https://github.com/vgooz/FanControl/blob/master/README.md)
+* [Games Streaming with Raspberry Pi](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Games-Streaming-with-Raspberry-Pi)
+* [Torrent TV with ACE Stream using](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-with-ACE-Stream-using)
+* [Torrent TV via Ace Steram Http Proxy](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-via-Ace-Steram-Http-Proxy)
