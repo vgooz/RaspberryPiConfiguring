@@ -11,3 +11,4 @@ Instructions how to install and configure software for Rasspberry Pi
 * [Torrent TV with ACE Stream using](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-with-ACE-Stream-using)
 * [Torrent TV via Ace Steram Http Proxy](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-via-Ace-Steram-Http-Proxy)
 * [Monitoring tools](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Monitoring-Tools)
+* [Enable I2C interface support](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Enable-I2C-interface-support)
