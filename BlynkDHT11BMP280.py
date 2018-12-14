@@ -7,7 +7,7 @@ from Adafruit_BME280 import *
 import Adafruit_DHT
 
 logging.basicConfig()
-#bme = BME280(t_mode=BME280_OSAMPLE_8, p_mode=BME280_OSAMPLE_8, h_mode=BME280_OSAMPLE_8)
+bme = BME280(t_mode=BME280_OSAMPLE_8, p_mode=BME280_OSAMPLE_8, h_mode=BME280_OSAMPLE_8)
 dht = Adafruit_DHT.DHT11
 pin = 4
 blynk = BlynkLib.Blynk('faff44d587fe4c5c8d210f0cfde07ac0','192.168.1.100', 8181)
@@ -42,8 +42,7 @@ def v1_read_handler():
 
 @blynk.VIRTUAL_READ(2)
 def v2_read_handler():
-    pascals = -1
-#    pascals = bme.read_pressure()
+    pascals = bme.read_pressure()
     mmHg = pascals * 0.007501
     print 'Pressure  = {0:0.2f} mmHg'.format(mmHg)
     blynk.virtual_write(2, round(mmHg))
@@ -71,7 +70,7 @@ def read_sensors():
 	countMeasurements = 0
 
     if countPressure < 5:
-#	sumPressure = sumPressure + bme.read_pressure()
+	sumPressure = sumPressure + bme.read_pressure()
 	countPressure = countPressure + 1
     else:
 	avgMmHg = (sumPressure/countPressure) * 0.007501
