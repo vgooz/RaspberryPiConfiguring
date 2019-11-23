@@ -9,7 +9,7 @@ Instructions how to install and configure software for Rasspberry Pi
 * [Using Fan Control service for Raspberry Pi cooling](https://github.com/vgooz/FanControl/blob/master/README.md)
 * [Games Streaming with Raspberry Pi](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Games-Streaming-with-Raspberry-Pi)
 * [Torrent TV with ACE Stream using](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-with-ACE-Stream-using)
-* [Torrent TV via Ace Stream Http Proxy](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-via-Ace-Steram-Http-Proxy)
+* [Torrent TV via Ace Stream Http Proxy](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Torrent-TV-via-Ace-Stream-Http-Proxy)
 * [Monitoring tools](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Monitoring-Tools)
 * [Enable I2C interface support](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Enable-I2C-interface-support)
 * [Install Docker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Docker)
