@@ -15,4 +15,5 @@ Instructions how to install and configure software for Rasspberry Pi
 * [Install Docker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Docker)
 * [Install Home Assistant on Docker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Home-Assistant-on-Docker)
 * [Configuring Samba](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Configuring-Samba)
+* [Install Mosuitto MQTT Brocker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Mosuitto-MQTT-Brocker)
 
