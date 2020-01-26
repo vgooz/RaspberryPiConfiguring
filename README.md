@@ -16,4 +16,4 @@ Instructions how to install and configure software for Rasspberry Pi
 * [Install Home Assistant on Docker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Home-Assistant-on-Docker)
 * [Configuring Samba](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Configuring-Samba)
 * [Install Mosquitto MQTT Brocker](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Mosquitto-MQTT-Brocker)
-
+* [Install Node.js](https://github.com/vgooz/RaspberryPiConfiguring/wiki/Install-Node.js)
